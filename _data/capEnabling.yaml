@@ -1,0 +1,399 @@
+---
+- Name: Enabling Capabilities
+  Documentation: All capabilities required to ensure that the organisation is able
+    to provide general financial, adminstrative, physical and technical support to
+    the core activities of Strategy & Governance, Teaching & Learning, Research and
+    Commercial Activity.
+  ID: enabling
+  levelTwo:
+  - ID: id-94
+    Type: Capability
+    Name: Government, Public & Stakeholder Relationships
+    Documentation: All activities aimed at ensuring a continuous level of engagement is maintained between the organisation and its customers, stakeholders & other interested parties.
+    levelThree:
+    - ID: id-97
+      Type: Capability
+      Name: Government Relationship Management
+      Documentation: What the organisation does to ensure it effectively manages and maintains its ties with government bodies.
+    - ID: id-99
+      Type: Capability
+      Name: Industry Relationship Management
+      Documentation: What the organisation does to ensure it effectively establishes, develops and nurtures a network of mutually beneficial industry relationships.
+    - ID: id-96
+      Type: Capability
+      Name: Other Tertiary Institution Relationship Management
+      Documentation: What the organisation does to identify key peer tertiary institutions, and manage and maintain these relationships.
+    - ID: id-100
+      Type: Capability
+      Name: Media Relations Management
+      Documentation: What the organisation does to ensure it promotes and enhances its profile and reputation regionally, nationally and internationally. Through the publicising of research and expertise, achievements and successes to a range of media and networks, while also responding to direct enquires from the press, maximising positive coverage in the media.
+    - ID: id-98
+      Type: Capability
+      Name: Internal Stakeholder Relationship Management
+      Documentation: What the organisation does to ensure it facilitates, develops and maintains internal stakeholder engagement & dialogue.
+    - ID: id-101
+      Type: Capability
+      Name: Public Relationship Management
+      Documentation: What the organisation does to ensure it establishes and maintains mutually beneficial relationships between the organisation and the public, through a programme of corporate, annual and one off external-facing events, as well as a programme of collaborative and community-focussed events.
+  - ID: id-116
+    Type: Capability
+    Name: Promotions Management
+    Documentation: All activities aimed at the promotion of the institution to prospective and current students, businesses and the general public.
+    levelThree:
+    - ID: id-121
+      Type: Capability
+      Name: Brand Management
+      Documentation: What the organisation does to ensure its brand is perceived positively, presented consistently and segregated from its competition.
+    - ID: id-119
+      Type: Capability
+      Name: Campaign Management
+      Documentation: What the organisation does to raise awareness of its courses and services through planning, execution, tracking and analysis of marketing campaigns.
+    - ID: id-118
+      Type: Capability
+      Name: Event Management
+      Documentation: What the organisation does to ensure large scale events, such as open days, conferences and high-profile public lectures, are planned, coordinated and operated satisfactorily.
+    - ID: id-120
+      Type: Capability
+      Name: Market Research
+      Documentation: What the organisation does to ensure information is gathered, analysed, understood and disseminated about the market(s) in which it operates, or may operate in future. This includes understanding the needs and preferences of those the organisation aims to serve, and the viability of the services it offers now or plans to offer.
+    - ID: id-123
+      Type: Capability
+      Name: Marketing Management
+      Documentation: What the organisation does to ensure it puts into practice the appropriate techniques, methods and structures in order to market the organisation.
+    - ID: id-122
+      Type: Capability
+      Name: Merchandising
+      Documentation: What the organisation does to promote the sale of products in a retail setting.
+  - ID: id-124
+    Type: Capability
+    Name: Supporting Services
+    Documentation: All activities that provide additional support to staff and students on and off campus to ensure a comprehensive range of services.
+    levelThree:
+    - ID: id-134
+      Type: Capability
+      Name: Food & Retail Management
+      Documentation: What the organisation does to manage the provision of food and retail outlets and associated services on campus and at associated locations. This includes payment services, e-commerce, stock management and logistics.
+    - ID: id-132
+      Type: Capability
+      Name: Religious Support
+      Documentation: What the organisation does to support the religious and spiritual needs of staff and students, including the provision of care services, events and facilities.
+    - ID: id-129
+      Type: Capability
+      Name: Sport & Recreation Management
+      Documentation: What the organisation does to provide facilities for sport and other recreational activities to staff, students and the wider community where appropriate.
+    - ID: id-126
+      Type: Capability
+      Name: Venue Management
+      Documentation: What the organisation does to manage the provision and booking of venues, including the associated facilities, both internally and to external customers. This excludes event management.
+    - ID: id-128
+      Type: Capability
+      Name: Child Care Management
+      Documentation: What the organisation does to ensure that there is suitable childcare advice and support available to staff and students. This may include childcare facilities, vouchers, etc.
+    - ID: id-133
+      Type: Capability
+      Name: Health Care Management
+      Documentation: What the organisation does to make sure that efficient and effective health care services are available. It will ensure that students know how to access these services, especially students not from the UK.
+    - ID: id-127
+      Type: Capability
+      Name: Printing Management
+      Documentation: What the organisation does to provide print services to students and staff, including provision of accounts for payment when required and printing in custom sizes and formats.
+    - ID: id-2900
+      Type: Capability
+      Name: Internal Communications
+      Documentation: What the organisation does to ensure that all constituent parts can communicate effectively using appropriate means across all aspects of the business.
+    - ID: id-337
+      Type: Capability
+      Name: Complaint & Compliment Management
+      Documentation: What the organisation does to receive, manage and respond to any complaints or compliments related to any aspect of its business.
+  - ID: id-135
+    Type: Capability
+    Name: Human Resource Management
+    Documentation: All activities aimed at the management and organisation of staff and their contribution to the institution.
+    levelThree:
+    - ID: id-146
+      Type: Capability
+      Name: Workforce Planning
+      Documentation: What the organisation does to forecast, recommend and report workforce requirements and performance, including structuring, based on the strategic objectives of the institution.
+    - ID: id-142
+      Type: Capability
+      Name: Staff Recruitment
+      Documentation: What the organisation does to ensure the best candidates are recruited to vacant posts, including identification of job requirements, attraction and selection of candidates, hiring and induction.
+    - ID: id-139
+      Type: Capability
+      Name: Talent Management
+      Documentation: What the organisation does to ensure succession planning, assessment, development and high-potential management of people particularly valuable to the organisation.
+    - ID: id-143
+      Type: Capability
+      Name: Remuneration & Entitlements Management
+      Documentation: What the organisation does to ensure it rewards its staff appropriately in terms of pay, pension and other benefits.
+    - ID: id-141
+      Type: Capability
+      Name: Workforce Relations Management
+      Documentation: What the organisation does to ensure a positive work environment, focus on individual and collective relationships, including unions, resolve workplace issues through intervention when necessary.
+    - ID: id-144
+      Type: Capability
+      Name: Workforce Reporting
+      Documentation: What the organisation does to ensure it provides internal and external (including statutory) operational and strategic information about its workforce to those who need it.
+    - ID: id-2861
+      Type: Capability
+      Name: Staff Absence Management
+      Documentation: What the organisation does to ensure the absence of employees is managed, recorded, authorised and followed up appropriately, along with ensuring work is adequately covered by other staff. This includes annual, sick, and other authorised leave, and unauthorised absence.
+    - ID: id-138
+      Type: Capability
+      Name: Staff Engagement
+      Documentation: What the organisation does to ensure its employees are motivated to contribute to the organisation's success and committed to the organisation’s goals and values.
+    - ID: id-2862
+      Type: Capability
+      Name: Staff Record & Details Management
+      Documentation: What the organisation does to maintain accurate information about employees, including contact, address and biographical details, contract management and document management. This includes appropriate record retention and disposal management.
+    - ID: id-147
+      Type: Capability
+      Name: Employee Performance Management
+      Documentation: What the organisation does to ensure expectations of employee performance are set, and individual objectives are established and assessed. This includes ensuring measures can be put in place to manage and improve unacceptable performance.
+    - ID: id-137
+      Type: Capability
+      Name: Employee Support
+      Documentation: What the organisation does to ensure its employees are provided with assistance, advice and guidance about personal and employment matters that might affect health, wellbeing or performance.
+    - ID: id-140
+      Type: Capability
+      Name: Training & Development
+      Documentation: What the organisation does to ensure the acquisition of new, or enhancement of existing, knowledge and skills by its employees in order to provide the desired level of performance.
+    - ID: id-145
+      Type: Capability
+      Name: Occupational Health
+      Documentation: What the organisation does to ensure the physical and mental wellbeing of its employees in the workplace.
+  - ID: id-180
+    Type: Capability
+    Name: Information & Communication Technology Management
+    Documentation: All activities aimed at the efficient and effective development, delivery and management of ICT resources and access to those resources.
+    levelThree:
+    - ID: id-182
+      Type: Capability
+      Name: Infrastructure Lifecycle Management
+      Documentation: What the organisation does to create and manage infrastructure in support of organisational requirements.
+    - ID: id-185
+      Type: Capability
+      Name: Application Lifecycle Management
+      Documentation: What the organisation does to create and manage applications in support of organisational requirements.
+    - ID: id-183
+      Type: Capability
+      Name: ICT Service Support
+      Documentation: What the organisation does to ensure the delivery of customer focused ICT service support.
+    - ID: id-187
+      Type: Capability
+      Name: Digital Communication Management
+      Documentation: What the organisation does to facilitate communications between stakeholders over digital channels and ensure that new channels are identified and adopted as required.
+    - ID: id-175
+      Type: Capability
+      Name: Identity & Access Management
+      Documentation: What the organisation does to manage data on IT systems and applications about users. Managed data includes user objects, identity attributes, security entitlements and authentication factors.
+    - ID: id-188
+      Type: Capability
+      Name: High Performance Computing
+      Documentation: What the organisation does to ensure access to HPC services.
+    - ID: id-189
+      Type: Capability
+      Name: End User Computing
+      Documentation: What the organisation does to ensure the availability of end user devices and/or access by end user devices.
+  - ID: id-148
+    Type: Capability
+    Name: Library Management
+    Documentation: All activities related to the management of library resources and access to those resources. This does not include the physical library environment.
+    levelThree:
+    - ID: id-152
+      Type: Capability
+      Name: Library Collection Access Management
+      Documentation: What the Organisation does to manage loaning and access to library collections and resources both physical and electronic, by students, staff and the wider community, in line with license and subscription agreements.
+    - ID: id-153
+      Type: Capability
+      Name: Library Collection Resource Management
+      Documentation: What the Organisation does to manage the its library collections and resources, including acquisition, invoicing and cataloguing, covering both physical and electronic assets.
+    - ID: id-151
+      Type: Capability
+      Name: Library Membership Management
+      Documentation: What the Organisation does to manage membership of the library, covering students, staff and the wider community.
+    - ID: id-150
+      Type: Capability
+      Name: Art/Museum Collection Management
+      Documentation: What the Organisation does to manage, maintain and secure its art and museum collections, including acquisition, cataloguing and loans.
+  - ID: id-167
+    Type: Capability
+    Name: Information Management
+    Documentation: All activities aimed at acquiring, storing, exploiting, archiving and deleting information in the organisation. Information under management includes structured and unstructured data as defined as in scope by the data governance, data security and data management policies.
+    levelThree:
+    - ID: id-178
+      Type: Capability
+      Name: Information Search & Discovery
+      Documentation: What the organisation does to locate, index, catalogue and publish information for both internal and external use. This may include data not held by the organisation.
+    - ID: id-171
+      Type: Capability
+      Name: Information & Data Management
+      Documentation: What the organisation does to manage institutional data, including planning for sourcing and storage, ensuring data is fit for purpose including sourcing and maintenance of data necessary to support the organisations business (may include geospatial, social, economic, demographic data).
+    - ID: id-177
+      Type: Capability
+      Name: Information & Data Security Management
+      Documentation: What the organisation does to assess, mark, monitor, manage and maintain information security,  and intervene/escalate in the event of breach of the Information Security policy. This will include complying with regulation, legislation and internal risk management.
+    - ID: id-176
+      Type: Capability
+      Name: Information Analytics
+      Documentation: What the organisation does to ensure the application of appropriate analytical techniques, including support for advanced analytics and their application to large data sets, providing the organisation with greater insight into their data.
+    - ID: id-172
+      Type: Capability
+      Name: Information Collection Management
+      Documentation: What the organisation does to understand, acquire, store archive and delete/sunset information which requires collection, validation, quality checking, use and re-use.
+    - ID: id-169
+      Type: Capability
+      Name: Copyright Management
+      Documentation: What the organisation does to secure data under copyright, including identification, assessment, monitoring and intervention in the case of breach, and ensuring appropriate use of data copyrighted by other persons or organisations.
+    - ID: id-170
+      Type: Capability
+      Name: Records Management
+      Documentation: What the organisation does to ensure that that records are managed in accordance with internal and external requirements / regulations / law.
+    - ID: id-173
+      Type: Capability
+      Name: Enterprise Content Management
+      Documentation: What the organisation does to acquire, maintain and manage content across both digital and physical platforms.
+    - ID: id-3020
+      Type: Capability
+      Name: Business & Operational Reporting
+      Documentation: What the organisation does to understand requirements, source data, validate quality and publish reports – on any platform – to underpin its daily operations and support its tactical and strategic planning.
+  - ID: id-102
+    Type: Capability
+    Name: Finance Management
+    Documentation: All activities aimed at the efficient and effective management of money (funds) in such a manner as to allow the organisation to accomplish its objectives.
+    levelThree:
+    - ID: id-112
+      Type: Capability
+      Name: Procurement & Purchasing Management
+      Documentation: What the organisation does to ensure the effective sourcing, purchasing and supply of the goods and services that enable the organisation to operate.
+    - ID: id-106
+      Type: Capability
+      Name: Budget Management
+      Documentation: What the organisation does to ensure the analysis, organisation and oversight of costs and expenditures within the business. This will include adhering to strict internal protocols on income & expenditures.
+    - ID: id-104
+      Type: Capability
+      Name: Treasury Management
+      Documentation: What the organisation does to ensure ongoing liquidity and mitigation of operational, financial and reputational risk through sound financial planning.
+    - ID: id-108
+      Type: Capability
+      Name: Income Management
+      Documentation: What the organisation does to ensure the effective invoicing, collection and allocation of monies into the organisation, including debt management.  
+    - ID: id-114
+      Type: Capability
+      Name: Insurance Management
+      Documentation: What the organisation does to ensure the relevant provisions are in place to provide a means of protection from financial loss.
+    - ID: id-115
+      Type: Capability
+      Name: Asset Management
+      Documentation: What the organisation does to ensure a systematic process of deploying, operating, maintaining, upgrading, and disposing of assets cost-effectively.
+    - ID: id-111
+      Type: Capability
+      Name: Financial Reporting
+      Documentation: What the organisation does to ensure the accurate and secure preparation, production and publication of financial information for both internal & external consumption.
+    - ID: id-109
+      Type: Capability
+      Name: Taxation Management
+      Documentation: What the organisation does to ensure the relevant strategy and procedures are in place to safeguard the organisation against its taxation risks and liabilities.
+    - ID: id-107
+      Type: Capability
+      Name: Financial Advisory
+      Documentation: What the organisation does to offer specialist financial advice.
+    - ID: id-105
+      Type: Capability
+      Name: Expenditure Management
+      Documentation: What the organisation does to ensure the effective payment of creditors, suppliers and customers.
+    - ID: id-110
+      Type: Capability
+      Name: Supplier Management
+      Documentation: What the organisation does to plan and manage the relationships with third party suppliers of goods and services to maximise benefits.
+  - ID: id-130
+    Type: Capability
+    Name: Accommodation Management
+    Documentation: All activities aimed at the provision of accommodation to students, and potentially other people when not occupied by students.
+    levelThree:
+    - ID: id-2982
+      Type: Capability
+      Name: Accommodation Allocation
+      Documentation: What the organisation does to allocate accommodation to students who have requested it, or to other people staying there when not occupied by students, and to enable an orderly occupation of accommodation upon arrival, and the management of room transfers and student withdrawals.
+    - ID: id-2986
+      Type: Capability
+      Name: Accommodation Departure & Turnaround Management
+      Documentation: What the organisation does to enable an orderly departure of residents at the end of their tenancy and ensure the accommodation is properly prepared for its next resident.
+    - ID: id-2983
+      Type: Capability
+      Name: Accommodation Facilities Management
+      Documentation: What the organisation does to ensure accommodation is appropriately furnished and equipped, including repair and replacement of furnishings and equipment as needed.
+    - ID: id-2984
+      Type: Capability
+      Name: Accommodation Incident & Emergency Response
+      Documentation: What the organisation does to ensure it is able to react and respond appropriately to emergencies and other serious incidents that occur in or affect student accommodation, including the ability to keep residents safely housed even during occurrences that mean standard accommodation is temporarily vacated.
+    - ID: id-6196
+      Type: Capability
+      Name: Private Sector Housing Management
+      Documentation: What the organisation does to provide tools and services to help students find private accommodation to rent whilst they are at the organisation.
+  - ID: id-81
+    Type: Capability
+    Name: Legal Services
+    Documentation: All activities aimed at ensuring the availability of effective legal services.
+    levelThree:
+    - ID: id-86
+      Type: Capability
+      Name: Contract Management
+      Documentation: What the organisation does to ensure that all contracts are effectively managed within required frameworks.
+    - ID: id-84
+      Type: Capability
+      Name: Legal & Legislative Compliance
+      Documentation: What the organisation does to ensure compliance with all appropriate legal and legislative requirements.
+    - ID: id-85
+      Type: Capability
+      Name: Legal Advisory
+      Documentation: What the organisation does to provide effective legal advisory services to its community.
+    - ID: id-83
+      Type: Capability
+      Name: Dispute Resolution
+      Documentation: What the organisation does to manage and resolve legal and legislative disputes.
+  - ID: id-154
+    Type: Capability
+    Name: Facilities & Property Management
+    Documentation: All activities aimed at ensuring that organisational facilities and properties are fit for purpose, futureproofed and maintained to the appropriate standards, including security and health and safety.
+    levelThree:
+    - ID: id-162
+      Type: Capability
+      Name: Estate Development & Management
+      Documentation: What the organisation does to ensure that its estate is effectively developed and managed to meet both current and future requirements.
+    - ID: id-166
+      Type: Capability
+      Name: Campus Parking
+      Documentation: What the organisation does to provide the appropriate level of car parking availability.
+    - ID: id-156
+      Type: Capability
+      Name: Campus Security
+      Documentation: What the organisation does to ensure the safety of the onsite community including monitoring and responding to unacceptable or criminal behaviour.
+    - ID: id-161
+      Type: Capability
+      Name: Space Utilisation
+      Documentation: What the organisation does to maximise the utilisation of available space.
+    - ID: id-159
+      Type: Capability
+      Name: Property Maintenance
+      Documentation: What the organisation does to maintain its estate to appropriate and acceptable levels.
+    - ID: id-165
+      Type: Capability
+      Name: Environmental Management
+      Documentation: What the organisation does to manage environmental services.
+    - ID: id-164
+      Type: Capability
+      Name: Health & Safety
+      Documentation: What the organisation does to provide an environment conducive to the health and safety of the entire onsite community.
+    - ID: id-158
+      Type: Capability
+      Name: Mail Management
+      Documentation: What the organisation does to ensure the distribution of mail both internally and externally.
+    - ID: id-157
+      Type: Capability
+      Name: Commercial Tenancy
+      Documentation: What the organisation does to manage external tenants.
+    - ID: id-160
+      Type: Capability
+      Name: Vehicle Management
+      Documentation: What the organisation does to manage its internal vehicle fleet.

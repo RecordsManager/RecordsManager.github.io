@@ -1,0 +1,65 @@
+---
+- Name: Commercial Activity
+  Documentation: All capabilities required to ensure that the organisation is able to develop, deliver, support and administer commercial activity
+  ID: commercial
+  levelTwo:
+  - ID: id-209
+    Type: Capability
+    Name: Commercial Sourcing
+    Documentation: All activities aimed at ensuring that the organisation can effectively identify and assess commercial opportunities.
+    levelThree:
+    - ID: id-214
+      Type: Capability
+      Name: Commercial Opportunity Assessment
+      Documentation: What the organisation does to ensure that it has the relevant measures in place to compare and evaluate commercial opportunities.
+    - ID: id-212
+      Type: Capability
+      Name: Commercial Opportunity Identification
+      Documentation: What the organisation does to ensure that it can identify potential new commercial opportunities across all sectors in which it is looking to operate.
+  - ID: id-193
+    Type: Capability
+    Name: Commercial Engagement
+    Documentation: All activities aimed at managing the organisations relationship with commercial partners.
+    levelThree:
+    - ID: id-196
+      Type: Capability
+      Name: Commercial Partner Engagement
+      Documentation: What the organisation does to initially identify, engage with, contract, administer and maintain commercial partners.
+    - ID: id-195
+      Type: Capability
+      Name: Commercial Partner Integration & Transition
+      Documentation: What the organisation does to manage assimilation and change in the relationship with commercial partners.
+  - ID: id-201
+    Type: Capability
+    Name: Commercial Delivery
+    Documentation: All activities aimed at the successful fulfilment of the organisations commercial activity commitments.
+    levelThree:
+    - ID: id-207
+      Type: Capability
+      Name: Commercial Activity Exit Management
+      Documentation: What the organisation does to ensure all relevant processes are in place to allow the organisation to cease specific commercial activities with the least harmful effect.
+    - ID: id-203
+      Type: Capability
+      Name: Commercial Activity Issue Management
+      Documentation: What the organisation does to ensure that all issues effecting commercial activity are handled speedily and effectively, within legal parameters, with the specific aim of minimising business damage and adverse brand reputation.
+    - ID: id-206
+      Type: Capability
+      Name: Commercial Activity Output Management
+      Documentation: What the organisation does to ensure the relevant processes are in place to deliver and communicate related time,quality, resource and risks associated to commercial outputs.
+  - ID: id-198
+    Type: Capability
+    Name: Commercial Monitoring
+    Documentation: All activities aimed at scrutinising the effectiveness and performance of all commercial endeavours within the organisation.
+    levelThree:
+    - ID: id-208
+      Type: Capability
+      Name: Commercial Contract Performance Management
+      Documentation: What the organisation does to ensure the process of systematically and efficiently managing contract execution and analysis for the purpose of maximising financial and operational performance and minimising risk.
+    - ID: id-204
+      Type: Capability
+      Name: Commercial Activity Reporting
+      Documentation: What the organisation does to ensure the effective reporting of commercial activity performance, good or bad, within the organisation.
+    - ID: id-200
+      Type: Capability
+      Name: Commercial Contingency Planning
+      Documentation: What the organisation does to ensure commercial activities can continue in the event of unplanned activities, such as supplier failure, emergency or disaster.

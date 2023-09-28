@@ -1,0 +1,121 @@
+{
+    "type": "System Landscape",
+    "scope": "Student Completion & Graduation",
+    "description": "All activities aimed at conferring degrees (and other awards) to students who have qualified appropriately and hence become graduates.",
+    "size": "A3_Landscape",
+  
+  
+    "elements": [
+      {
+        "type": "Software System",
+        "name": "Awards Database",
+        "description": "Ruby on Rails App  for organising and managing awards ceremonies",
+        "tags": "Internal",
+        "position": "3000,895"
+      },
+      {
+        "type": "Software System",
+        "name": "Graduation Eligibility Management",
+        "description": "What the organisation does to ensure that the administrative and financial (debt) affairs of students are in order, and those eligible to graduate are determined. This does not include academic results or exam/review boards.",
+        "tags": "Internal, Cap2",
+        "position": "140,170"
+      },
+      {
+        "type": "Software System",
+        "name": "Graduation Event Management",
+        "description": "What the organisation does to stage the ceremony at which degrees are formally and publicly conferred by the organisation to eligible graduands.This includes the abilities to make the necessary arrangements for the event(s),and the carrying out of the graduation ceremony itself along with other associated events.",
+        "tags": "Internal, Cap2",
+        "position": "2395,185"
+      },
+      {
+        "type": "Software System",
+        "name": "Graduation Record Certificate Management",
+        "description": "What the organisation does to ensure accurate records, relating to the formal qualifications awarded to students, are produced and maintained. This includes degree award certificates, Diploma Supplements and other associated certificates and records, and the ability to provide records and certificates as required.",
+        "tags": "Internal, Cap2",
+        "position": "3570,175"
+      },
+      {
+        "type": "Software System",
+        "name": "JISC Learner Analytics",
+        "description": "Collections of Products around JISC Learner Analytics",
+        "tags": "Internal",
+        "position": "2340,895"
+      },
+      {
+        "type": "Software System",
+        "name": "Non-Academic Achievement Management",
+        "description": "What the organisation does to ensure the recognition and recording of achievements made by students at organisation, other than formal academic awards. This includes abilities to produce HEARs (Higher Education Achievement Reports), recognise outstanding extra-curricular activities and voluntary work, and to bestow intuition-specific prizes.",
+        "tags": "Internal, Cap2",
+        "position": "1375,185"
+      }
+    ],
+  
+  
+    "relationships": [
+      {
+        "source": "Awards Database",
+        "description": "",
+        "technology": "",
+        "destination": "Graduation Event Management",
+        "tags": ""
+      }
+    ],
+  
+  
+    "styles": [
+      {
+        "type": "element",
+        "description": "",
+        "tag": "Cap2",
+        "width": "800",
+        "height": "400",
+        "background": "#be0f34",
+        "color": "#ffffff",
+        "fontSize": "",
+        "border": "",
+        "opacity": "",
+        "shape": "",
+        "metadata": ""
+      },
+      {
+        "type": "element",
+        "description": "",
+        "tag": "Person",
+        "width": "",
+        "height": "",
+        "background": "#000000",
+        "color": "#ffffff",
+        "fontSize": "",
+        "border": "",
+        "opacity": "",
+        "shape": "Person",
+        "metadata": "false"
+      },
+      {
+        "type": "relationship",
+        "tag": "Relationship",
+        "position": "",
+        "thickness": "",
+        "width": "",
+        "color": "",
+        "fontSize": "",
+        "dashed": "false",
+        "routing": "",
+        "opacity": ""
+      },
+      {
+        "type": "element",
+        "description": "true",
+        "tag": "Software System",
+        "width": "600",
+        "height": "",
+        "background": "#ffffff",
+        "color": "#333333",
+        "fontSize": "24",
+        "border": "Solid",
+        "opacity": "",
+        "shape": "",
+        "metadata": "false"
+      }
+    ]
+  }

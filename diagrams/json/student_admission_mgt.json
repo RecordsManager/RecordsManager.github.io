@@ -1,0 +1,177 @@
+{
+  "type": "System Landscape",
+  "scope": "Student Admission Management Capability",
+  "description": "All activities aimed at managing student applications, placement offers and quotas.",
+  "size": "A3_Landscape",
+
+
+  "elements": [
+    {
+      "type": "Software System",
+      "name": "Admissions Reporting",
+      "description": "",
+      "tags": "Internal",
+      "position": "2680,1110"
+    },
+    {
+      "type": "Software System",
+      "name": "Admit",
+      "description": "Main Admissions System for the University",
+      "tags": "Internal",
+      "position": "1165,1125"
+    },
+    {
+      "type": "Person",
+      "name": "Enquiries and Admissions Staff",
+      "description": "",
+      "tags": "Internal",
+      "position": "2325,1805"
+    },
+    {
+      "type": "Software System",
+      "name": "Offer, Acceptance & Quota Management",
+      "description": "What the organisation does to ensure student offers are distributed, acceptances are processed and quotas are managed, including confirmation activities.",
+      "tags": "Internal, Cap2",
+      "position": "2220,520"
+    },
+    {
+      "type": "Software System",
+      "name": "SASAPPS",
+      "description": "Current Student Letter application - to be replace by student letters .net core app",
+      "tags": "Internal",
+      "position": "2010,1115"
+    },
+    {
+      "type": "Software System",
+      "name": "Student Application Management",
+      "description": "What the organisation does to ensure student applications are assessed/evaluated, including assessment of prior learning, scheduling interviews and clearing activities.",
+      "tags": "Internal, Cap2",
+      "position": "1070,520"
+    },
+    {
+      "type": "Software System",
+      "name": "Student Letters",
+      "description": ".Net Core app to send student letters",
+      "tags": "Internal",
+      "position": "3315,1115"
+    }
+  ],
+
+
+  "relationships": [
+    {
+      "source": "Admissions Reporting",
+      "description": "",
+      "technology": "",
+      "destination": "Offer, Acceptance & Quota Management",
+      "tags": ""
+    },
+    {
+      "source": "Admit",
+      "description": "",
+      "technology": "",
+      "destination": "Offer, Acceptance & Quota Management",
+      "tags": ""
+    },
+    {
+      "source": "Admit",
+      "description": "",
+      "technology": "",
+      "destination": "Student Application Management",
+      "tags": ""
+    },
+    {
+      "source": "Enquiries and Admissions Staff",
+      "description": "",
+      "technology": "",
+      "destination": "Admit",
+      "tags": ""
+    },
+    {
+      "source": "Enquiries and Admissions Staff",
+      "description": "",
+      "technology": "",
+      "destination": "SASAPPS",
+      "tags": ""
+    },
+    {
+      "source": "Enquiries and Admissions Staff",
+      "description": "",
+      "technology": "",
+      "destination": "Student Letters",
+      "tags": ""
+    },
+    {
+      "source": "SASAPPS",
+      "description": "",
+      "technology": "",
+      "destination": "Offer, Acceptance & Quota Management",
+      "tags": ""
+    },
+    {
+      "source": "Student Letters",
+      "description": "",
+      "technology": "",
+      "destination": "Offer, Acceptance & Quota Management",
+      "tags": ""
+    }
+  ],
+
+
+  "styles": [
+    {
+      "type": "element",
+      "description": "",
+      "tag": "Cap2",
+      "width": "800",
+      "height": "400",
+      "background": "#be0f34",
+      "color": "#ffffff",
+      "fontSize": "",
+      "border": "",
+      "opacity": "",
+      "shape": "",
+      "metadata": ""
+    },
+    {
+      "type": "element",
+      "description": "",
+      "tag": "Person",
+      "width": "",
+      "height": "",
+      "background": "#000000",
+      "color": "#ffffff",
+      "fontSize": "",
+      "border": "",
+      "opacity": "",
+      "shape": "Person",
+      "metadata": "false"
+    },
+    {
+      "type": "relationship",
+      "tag": "Relationship",
+      "position": "",
+      "thickness": "",
+      "width": "",
+      "color": "",
+      "fontSize": "",
+      "dashed": "false",
+      "routing": "",
+      "opacity": ""
+    },
+    {
+      "type": "element",
+      "description": "true",
+      "tag": "Software System",
+      "width": "600",
+      "height": "",
+      "background": "#ffffff",
+      "color": "#333333",
+      "fontSize": "24",
+      "border": "Solid",
+      "opacity": "",
+      "shape": "",
+      "metadata": "false"
+    }
+  ]
+}

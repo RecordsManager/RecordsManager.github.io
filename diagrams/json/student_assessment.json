@@ -1,0 +1,205 @@
+{
+  "type": "System Landscape",
+  "scope": "Student Assessement Capability",
+  "description": "All activities aimed at assessing whether a student has achieved the learning outcomes of the curriculum.",
+  "size": "A3_Landscape",
+
+
+  "elements": [
+    {
+      "type": "Software System",
+      "name": "Assessment Administration",
+      "description": "What the organisation does to administer the assessment of students, ensuring regulations, policies and processes are followed, and that there is a clear communications strategy so students are aware of the assessment regime and their responsibilities.",
+      "tags": "Internal, Cap2",
+      "position": "3495,145"
+    },
+    {
+      "type": "Software System",
+      "name": "Assessment Delivery",
+      "description": "What the organisation does to ensure that students are assessed against the learning outcomes of their curriculum proportionately and using the most appropriate assessment method.",
+      "tags": "Internal, Cap2",
+      "position": "3485,1260"
+    },
+    {
+      "type": "Software System",
+      "name": "Assessment Diaries",
+      "description": "A system that sits in Blackboard?",
+      "tags": "Internal",
+      "position": "2415,1130"
+    },
+    {
+      "type": "Software System",
+      "name": "Assessment Marking & Feedback",
+      "description": "What the organisation does to mark, benchmark and moderate assessments, and provide feedback to students that facilitates their development as learners.",
+      "tags": "Internal, Cap2",
+      "position": "3490,2245"
+    },
+    {
+      "type": "Software System",
+      "name": "Assignment Barcoder",
+      "description": "Allows recording of work submitted by students - in-house development (inherited from Newport)",
+      "tags": "Internal",
+      "position": "2415,1960"
+    },
+    {
+      "type": "Software System",
+      "name": "LateSubmission",
+      "description": "Learning system",
+      "tags": "Internal",
+      "position": "2415,2665"
+    },
+    {
+      "type": "Software System",
+      "name": "Loop",
+      "description": "Course and module evaluation system for students, reporting for staff",
+      "tags": "Internal",
+      "position": "2415,195"
+    },
+    {
+      "type": "Software System",
+      "name": "Overall Grade Tracking",
+      "description": "OGT",
+      "tags": "Internal",
+      "position": "2415,1490"
+    },
+    {
+      "type": "Software System",
+      "name": "Results",
+      "description": "Displays assessment marks and results to students",
+      "tags": "Internal",
+      "position": "2415,705"
+    },
+    {
+      "type": "Software System",
+      "name": "SAPI",
+      "description": "Student Achievement",
+      "tags": "Internal",
+      "position": "685,2660"
+    },
+    {
+      "type": "Software System",
+      "name": "Student Results Management",
+      "description": "What the organisation does to manage the gathering, aggregation and assignment of a student's results from a variety of assessment methods (including coursework, examinations and placements) as part of their curriculum and in accordance with academic regulations to provide assessment outcomes (e.g. progression and award).",
+      "tags": "Internal, Cap2",
+      "position": "3495,655"
+    },
+    {
+      "type": "Software System",
+      "name": "Turnitin",
+      "description": "Assigments Submissions",
+      "tags": "Internal",
+      "position": "2415,2312"
+    }
+  ],
+
+
+  "relationships": [
+    {
+      "source": "Assessment Diaries",
+      "description": "",
+      "technology": "",
+      "destination": "Assessment Delivery",
+      "tags": ""
+    },
+    {
+      "source": "Assignment Barcoder",
+      "description": "",
+      "technology": "",
+      "destination": "Assessment Marking & Feedback",
+      "tags": ""
+    },
+    {
+      "source": "LateSubmission",
+      "description": "",
+      "technology": "",
+      "destination": "Assessment Marking & Feedback",
+      "tags": ""
+    },
+    {
+      "source": "Loop",
+      "description": "",
+      "technology": "",
+      "destination": "Assessment Administration",
+      "tags": ""
+    },
+    {
+      "source": "Overall Grade Tracking",
+      "description": "",
+      "technology": "",
+      "destination": "Assessment Delivery",
+      "tags": ""
+    },
+    {
+      "source": "Results",
+      "description": "",
+      "technology": "",
+      "destination": "Student Results Management",
+      "tags": ""
+    },
+    {
+      "source": "Turnitin",
+      "description": "",
+      "technology": "",
+      "destination": "Assessment Marking & Feedback",
+      "tags": ""
+    }
+  ],
+
+
+  "styles": [
+    {
+      "type": "element",
+      "description": "",
+      "tag": "Cap2",
+      "width": "900",
+      "height": "400",
+      "background": "#be0f34",
+      "color": "#ffffff",
+      "fontSize": "32",
+      "border": "",
+      "opacity": "",
+      "shape": "",
+      "metadata": ""
+    },
+    {
+      "type": "element",
+      "description": "",
+      "tag": "Person",
+      "width": "",
+      "height": "",
+      "background": "#000000",
+      "color": "#ffffff",
+      "fontSize": "",
+      "border": "",
+      "opacity": "",
+      "shape": "Person",
+      "metadata": "false"
+    },
+    {
+      "type": "relationship",
+      "tag": "Relationship",
+      "position": "",
+      "thickness": "",
+      "width": "",
+      "color": "",
+      "fontSize": "",
+      "dashed": "false",
+      "routing": "",
+      "opacity": ""
+    },
+    {
+      "type": "element",
+      "description": "true",
+      "tag": "Software System",
+      "width": "600",
+      "height": "",
+      "background": "#ffffff",
+      "color": "#333333",
+      "fontSize": "24",
+      "border": "Solid",
+      "opacity": "",
+      "shape": "",
+      "metadata": "false"
+    }
+  ]
+}

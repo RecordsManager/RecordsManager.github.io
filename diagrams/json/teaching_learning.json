@@ -1,0 +1,303 @@
+{
+    "type": "System Landscape",
+    "scope": "Teaching & Learning Delivery Capability",
+    "description": "All activities aimed at delivering a learning experience to students of the organisation and enabling them to engage with learning in the subjects as described in the curriculum. This includes the delivery of teaching activitiesas well as other activities that support a meaningful learning environment.",
+    "size": "A3_Landscape",
+  
+  
+    "elements": [
+      {
+        "type": "Software System",
+        "name": "Blackboard",
+        "description": "VLE",
+        "tags": "Internal",
+        "position": "870,895"
+      },
+      {
+        "type": "Software System",
+        "name": "Bus-Survey",
+        "description": "Business Online Surveys",
+        "tags": "Internal",
+        "position": "1925,890"
+      },
+      {
+        "type": "Software System",
+        "name": "HESAS Space",
+        "description": "Student Placement And Clinical Evaluation",
+        "tags": "Internal",
+        "position": "3560,895"
+      },
+      {
+        "type": "Software System",
+        "name": "iTunesU",
+        "description": "iTunesU presence",
+        "tags": "Internal",
+        "position": "905,395"
+      },
+      {
+        "type": "Software System",
+        "name": "MCQ",
+        "description": "Meta Cognitive Questionnaire",
+        "tags": "Internal",
+        "position": "865,1870"
+      },
+      {
+        "type": "Software System",
+        "name": "Meetoo",
+        "description": "Student Polling Software",
+        "tags": "Internal",
+        "position": "3045,890"
+      },
+      {
+        "type": "Software System",
+        "name": "Non Presence Based Teaching",
+        "description": "What the organisation does to provide teaching activities via online and digital channels that enable learning for students not physically located with the teaching content provider.",
+        "tags": "Internal, Cap2",
+        "position": "215,1315"
+      },
+      {
+        "type": "Software System",
+        "name": "Panopto",
+        "description": "",
+        "tags": "Internal",
+        "position": "520,895"
+      },
+      {
+        "type": "Software System",
+        "name": "Planet EStream",
+        "description": "",
+        "tags": "Internal",
+        "position": "515,1870"
+      },
+      {
+        "type": "Software System",
+        "name": "Presence Based Teaching",
+        "description": "What the organisation does to provide face to face teaching activities that enable learning and associated resources, to students physically located with the teaching content provider.",
+        "tags": "Internal, Cap2",
+        "position": "2395,185"
+      },
+      {
+        "type": "Software System",
+        "name": "SAFE Medicate",
+        "description": "An E-Learning Solution to develop and assess competence for safe drug calculations.",
+        "tags": "Internal",
+        "position": "1235,890"
+      },
+      {
+        "type": "Software System",
+        "name": "Simple",
+        "description": "Some kind of office simulation system used by FBS",
+        "tags": "Internal",
+        "position": "2355,890"
+      },
+      {
+        "type": "Software System",
+        "name": "SPACE",
+        "description": "Student Placements, Attendance and Clincal Evaluations",
+        "tags": "Internal",
+        "position": "4165,895"
+      },
+      {
+        "type": "Software System",
+        "name": "Student Placement Management",
+        "description": "What the organisation does to source, allocate and manage the placement of students in learning and professional practice environments external to the organisation as part of the curriculum.",
+        "tags": "Internal, Cap2",
+        "position": "3570,175"
+      },
+      {
+        "type": "Software System",
+        "name": "Teaching & Learning Content Management",
+        "description": "What the organisation does to provide resources in a wide range of formats to support learning and teaching in the organisation. This includes physical space, library and other physical and digital services.",
+        "tags": "Internal, Cap2",
+        "position": "1375,185"
+      },
+      {
+        "type": "Software System",
+        "name": "Turning Point",
+        "description": "Polling systems with Physical Handsets - booked vis Connect2 system",
+        "tags": "Internal",
+        "position": "2695,890"
+      },
+      {
+        "type": "Software System",
+        "name": "Video recording/playback",
+        "description": "Glamorgan Sports Park",
+        "tags": "Internal",
+        "position": "1585,890"
+      }
+    ],
+  
+  
+    "relationships": [
+      {
+        "source": "Blackboard",
+        "description": "",
+        "technology": "",
+        "destination": "Non Presence Based Teaching",
+        "tags": ""
+      },
+      {
+        "source": "Blackboard",
+        "description": "",
+        "technology": "",
+        "destination": "Teaching & Learning Content Management",
+        "tags": ""
+      },
+      {
+        "source": "Bus-Survey",
+        "description": "",
+        "technology": "",
+        "destination": "Teaching & Learning Content Management",
+        "tags": ""
+      },
+      {
+        "source": "HESAS Space",
+        "description": "",
+        "technology": "",
+        "destination": "Student Placement Management",
+        "tags": ""
+      },
+      {
+        "source": "iTunesU",
+        "description": "",
+        "technology": "",
+        "destination": "Teaching & Learning Content Management",
+        "tags": ""
+      },
+      {
+        "source": "MCQ",
+        "description": "",
+        "technology": "",
+        "destination": "Non Presence Based Teaching",
+        "tags": ""
+      },
+      {
+        "source": "Meetoo",
+        "description": "",
+        "technology": "",
+        "destination": "Presence Based Teaching",
+        "tags": ""
+      },
+      {
+        "source": "Panopto",
+        "description": "",
+        "technology": "",
+        "destination": "Non Presence Based Teaching",
+        "tags": ""
+      },
+      {
+        "source": "Planet EStream",
+        "description": "",
+        "technology": "",
+        "destination": "Non Presence Based Teaching",
+        "tags": ""
+      },
+      {
+        "source": "SAFE Medicate",
+        "description": "",
+        "technology": "",
+        "destination": "Teaching & Learning Content Management",
+        "tags": ""
+      },
+      {
+        "source": "Simple",
+        "description": "",
+        "technology": "",
+        "destination": "Presence Based Teaching",
+        "tags": ""
+      },
+      {
+        "source": "SPACE",
+        "description": "",
+        "technology": "",
+        "destination": "Student Placement Management",
+        "tags": ""
+      },
+      {
+        "source": "Turning Point",
+        "description": "",
+        "technology": "",
+        "destination": "Presence Based Teaching",
+        "tags": ""
+      },
+      {
+        "source": "Video recording/playback",
+        "description": "",
+        "technology": "",
+        "destination": "Teaching & Learning Content Management",
+        "tags": ""
+      }
+    ],
+  
+  
+    "styles": [
+      {
+        "type": "element",
+        "description": "",
+        "tag": "Cap2",
+        "width": "900",
+        "height": "400",
+        "background": "#be0f34",
+        "color": "#ffffff",
+        "fontSize": "32",
+        "border": "",
+        "opacity": "",
+        "shape": "",
+        "metadata": ""
+      },
+      {
+        "type": "element",
+        "description": "",
+        "tag": "Person",
+        "width": "",
+        "height": "",
+        "background": "#000000",
+        "color": "#ffffff",
+        "fontSize": "",
+        "border": "",
+        "opacity": "",
+        "shape": "Person",
+        "metadata": "false"
+      },
+      {
+        "type": "relationship",
+        "tag": "Relationship",
+        "position": "",
+        "thickness": "",
+        "width": "",
+        "color": "",
+        "fontSize": "",
+        "dashed": "false",
+        "routing": "",
+        "opacity": ""
+      },
+      {
+        "type": "element",
+        "description": "true",
+        "tag": "Software System",
+        "width": "300",
+        "height": "200",
+        "background": "#ffffff",
+        "color": "#333333",
+        "fontSize": "24",
+        "border": "Solid",
+        "opacity": "",
+        "shape": "",
+        "metadata": "false"
+      },
+      {
+        "type": "element",
+        "description": "",
+        "tag": "sub",
+        "width": "300",
+        "height": "200",
+        "background": "",
+        "color": "",
+        "fontSize": "",
+        "border": "",
+        "opacity": "",
+        "shape": "",
+        "metadata": ""
+      }
+    ]
+  }

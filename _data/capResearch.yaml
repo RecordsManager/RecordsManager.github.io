@@ -1,0 +1,133 @@
+---
+- Name: Research
+  Documentation: All capabilities required to ensure that the organisation is able to develop, deliver, support and administer research.
+  ID: research
+  levelTwo:
+  - ID: id-247
+    Type: Capability
+    Name: Research Opportunity & Planning
+    Documentation: All activities aimed at determining and defining the research programmes and projects that will be undertaken at the organisation.
+    levelThree:
+    - ID: id-251
+      Type: Capability
+      Name: Research Opportunity Analysis
+      Documentation: What the organisation does to identify and analyse opportunities and ideas for research programmes and projects.
+    - ID: id-250
+      Type: Capability
+      Name: Research Prioritisation
+      Documentation: What the organisation does to determine the priority of potential research programmes and projects.
+    - ID: id-249
+      Type: Capability
+      Name: Research Programme Development
+      Documentation: What the organisation does to develop its programme of research, including the identification of high-level research goals and themes.
+    - ID: id-252
+      Type: Capability
+      Name: Collaborative Opportunity Management
+      Documentation: What the organisation does to investigate and support opportunities for research that involve relationships or partnerships with other organisations.
+  - ID: id-222
+    Type: Capability
+    Name: Research Funding
+    Documentation: All activities aimed at obtaining and managing funds to undertake research projects.
+    levelThree:
+    - ID: id-225
+      Type: Capability
+      Name: Research Funding Identification
+      Documentation: What the organisation does to identify and secure sources of funding necessary to undertake research projects, including grant proposal and bid preparation.
+    - ID: id-224
+      Type: Capability
+      Name: Research Funds Management
+      Documentation: What the organisation does to properly and effectively manage research funds throughout research projects, once secured.
+  - ID: id-217
+    Type: Capability
+    Name: Research Delivery
+    Documentation: All activities aimed at undertaking and delivering the research itself.
+    levelThree:
+    - ID: id-219
+      Type: Capability
+      Name: Research Output Management
+      Documentation: What the organisation does to manage the outputs that are produced from research projects, including curation of those outputs beyond the lifetime of individual projects.
+    - ID: id-221
+      Type: Capability
+      Name: Research Production
+      Documentation: What the organisation does to produce research. This is the execution of the research project.
+    - ID: id-220
+      Type: Capability
+      Name: Research Dataset Management
+      Documentation: What the organisation does to store, share, use and re-use datasets produced from research projects, including dataset management planning and curation of datasets beyond the lifetime of individual projects.
+  - ID: id-237
+    Type: Capability
+    Name: Research Training
+    Documentation: All activities aimed at training and developing the organisation's researchers, including both staff and post-graduate research students.
+    levelThree:
+    - ID: id-239
+      Type: Capability
+      Name: Researcher Training & Development
+      Documentation: What the organisation does to ensure researchers know what is expected of them and how that contributes to the wider objectives of the organisation. Ensuring researchers are fully equipped, from a skills perspective, to deliver impactful research projects.
+    - ID: id-241
+      Type: Capability
+      Name: PGR Student Skills Development
+      Documentation: What the organisation does to develop its postgraduate research students so as to equip them with the necessary skills to undertake, defend and publish their research.
+    - ID: id-240
+      Type: Capability
+      Name: PGR Supervisor Development
+      Documentation: What the organisation does to develop the supervisory and support skills of those staff who supervise postgraduate research students.
+  - ID: id-253
+    Type: Capability
+    Name: Research Publications
+    Documentation: All activities aimed at publishing research findings and reporting outputs.
+    levelThree:
+    - ID: id-257
+      Type: Capability
+      Name: Research Publication Management
+      Documentation: What the organisation does to publish and promote research findings, and holistically manage its publication collections to maximise impact.
+    - ID: id-255
+      Type: Capability
+      Name: Research Output Reporting
+      Documentation: What the organisation does to develop and produce reports on research outputs, including those necessary to meet the requirements of funding bodies.
+  - ID: id-233
+    Type: Capability
+    Name: Research Impact
+    Documentation: All activities aimed at maximising and promoting the impacts of research undertaken at the organisation.
+    levelThree:
+    - ID: id-236
+      Type: Capability
+      Name: Manage Research Relationships
+      Documentation: What the organisation does to plan, manage and cultivate its research relationships with other organisations, including the management of partner relationships and for knowledge exchange relationships.
+    - ID: id-235
+      Type: Capability
+      Name: Commercialise Research Outcomes
+      Documentation: What the organisation does to plan and realise the commercial potential of its research outcomes, including contract and intellectual property management.
+    - ID: id-6067
+      Type: Capability
+      Name: Non-Commercial Research Impact Management
+      Documentation: What the organisation does to plan and realise the non-commercial potential of its research outcomes, including for social good.
+  - ID: id-242
+    Type: Capability
+    Name: Research Improvement
+    Documentation: All activities aimed at the continuous improvement of research quality and performance.
+    levelThree:
+    - ID: id-245
+      Type: Capability
+      Name: Research Quality Management
+      Documentation: What the organisation does to review and improve the quality of its research activities.
+    - ID: id-246
+      Type: Capability
+      Name: Researcher Performance Management
+      Documentation: What the organisation does to assess researcher performance and undertake performance improvement activities.
+    - ID: id-244
+      Type: Capability
+      Name: Research Programme Performance Management
+      Documentation: What the organisation does to review and improve the performance of its research programme.
+  - ID: id-226
+    Type: Capability
+    Name: Research Administration
+    Documentation: All activities aimed at administering and supporting the organisation's research environment.
+    levelThree:
+    - ID: id-232
+      Type: Capability
+      Name: Research Compliance Management
+      Documentation: What the organisation does to manage and ensure compliance with research rules and regulations, including ethics.
+    - ID: id-231
+      Type: Capability
+      Name: Research Infrastructure Management
+      Documentation: What the organisation does to manage its specialist research infrastructure.

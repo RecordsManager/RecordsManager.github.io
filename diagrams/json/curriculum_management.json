@@ -1,0 +1,265 @@
+{
+  "type": "System Landscape",
+  "scope": "Curriculum Management Capability",
+  "description": "All activities aimed at educators and administrators collaborating on the creation, development, design, review, approval, assessment, and refinement of curriculum content to achieve desired student outcomes.",
+  "size": "A3_Landscape",
+
+
+  "elements": [
+    {
+      "type": "Person",
+      "name": "Administrators",
+      "description": "PQOs etc",
+      "tags": "Internal",
+      "position": "590,805"
+    },
+    {
+      "type": "Software System",
+      "name": "Cognito Forms",
+      "description": "Web based form buider",
+      "tags": "Internal",
+      "position": "2580,2780"
+    },
+    {
+      "type": "Software System",
+      "name": "Curriculum & Resource Development",
+      "description": "What the organisation does to ensure that the relevant resources are available to deliver the curriculum components e.g. learning spaces, books etc.",
+      "tags": "Internal ,Cap2",
+      "position": "3485,838"
+    },
+    {
+      "type": "Software System",
+      "name": "Curriculum Change Management",
+      "description": "What the organisation does to ensure educators and administrators collaborate on the review and refinement of curriculum components to achieve desired student outcomes.",
+      "tags": "Internal ,Cap2",
+      "position": "3485,1469"
+    },
+    {
+      "type": "Software System",
+      "name": "Curriculum Design",
+      "description": "What the organisation does to ensure educators and administrators collaborate on the creation, development, design, approval and release of new curriculum components to achieve desired student outcomes.",
+      "tags": "Internal ,Cap2",
+      "position": "3485,207"
+    },
+    {
+      "type": "Software System",
+      "name": "Curriculum Performance Management",
+      "description": "What the organisation does to develop and support the organisation's quality assurance framework e.g. Academic Committees, Annual programme monitoring, Periodic programme review, Course Approval & modifications etc.",
+      "tags": "Internal ,Cap2",
+      "position": "3485,2742"
+    },
+    {
+      "type": "Software System",
+      "name": "Curriculum Retirement Management",
+      "description": "What the organisation does to ensure educators and administrators withdraw & retire curriculum components.",
+      "tags": "Internal ,Cap2",
+      "position": "3485,2100"
+    },
+    {
+      "type": "Person",
+      "name": "Educators",
+      "description": "Acadmics",
+      "tags": "",
+      "position": "590,1780"
+    },
+    {
+      "type": "Software System",
+      "name": "External Examiners",
+      "description": "",
+      "tags": "Internal",
+      "position": "2575,1872"
+    },
+    {
+      "type": "Software System",
+      "name": "ICIS",
+      "description": "Current Curriculum Management System",
+      "tags": "Internal",
+      "position": "2575,827"
+    },
+    {
+      "type": "Software System",
+      "name": "Mods and Progs",
+      "description": "Very old Curriculum management System",
+      "tags": "",
+      "position": "2575,1197"
+    },
+    {
+      "type": "Software System",
+      "name": "Professional Accreditation",
+      "description": "What the organisation does to ensure the academic curriculum is accredited by a professional authority.",
+      "tags": "Internal",
+      "position": "1630,212"
+    },
+    {
+      "type": "Software System",
+      "name": "Vero",
+      "description": "New Curriculum Information system",
+      "tags": "",
+      "position": "2575,245"
+    }
+  ],
+
+
+  "relationships": [
+    {
+      "source": "Administrators",
+      "description": "Do",
+      "technology": "",
+      "destination": "Professional Accreditation",
+      "tags": ""
+    },
+    {
+      "source": "Administrators",
+      "description": "",
+      "technology": "Use",
+      "destination": "Cognito Forms",
+      "tags": ""
+    },
+    {
+      "source": "Administrators",
+      "description": "",
+      "technology": "",
+      "destination": "Mods and Progs",
+      "tags": ""
+    },
+    {
+      "source": "Administrators",
+      "description": "",
+      "technology": "",
+      "destination": "Vero",
+      "tags": ""
+    },
+    {
+      "source": "Administrators",
+      "description": "",
+      "technology": "",
+      "destination": "External Examiners",
+      "tags": ""
+    },
+    {
+      "source": "Administrators",
+      "description": "",
+      "technology": "",
+      "destination": "ICIS",
+      "tags": ""
+    },
+    {
+      "source": "Cognito Forms",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Performance Management",
+      "tags": ""
+    },
+    {
+      "source": "Educators",
+      "description": "",
+      "technology": "Submit",
+      "destination": "Cognito Forms",
+      "tags": ""
+    },
+    {
+      "source": "External Examiners",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Performance Management",
+      "tags": ""
+    },
+    {
+      "source": "ICIS",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Change Management",
+      "tags": ""
+    },
+    {
+      "source": "Mods and Progs",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Change Management",
+      "tags": ""
+    },
+    {
+      "source": "Vero",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Design",
+      "tags": ""
+    },
+    {
+      "source": "Vero",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum & Resource Development",
+      "tags": ""
+    },
+    {
+      "source": "Vero",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Retirement Management",
+      "tags": "",
+      "vertices": [
+        "3365,775",
+        "3350,2300"
+      ]
+    }
+  ],
+
+
+  "styles": [
+    {
+      "type": "element",
+      "description": "",
+      "tag": "Cap2",
+      "width": "800",
+      "height": "400",
+      "background": "#be0f34",
+      "color": "#ffffff",
+      "fontSize": "",
+      "border": "",
+      "opacity": "",
+      "shape": "",
+      "metadata": ""
+    },
+    {
+      "type": "element",
+      "description": "",
+      "tag": "Person",
+      "width": "",
+      "height": "",
+      "background": "#000000",
+      "color": "#ffffff",
+      "fontSize": "",
+      "border": "",
+      "opacity": "",
+      "shape": "Person",
+      "metadata": "false"
+    },
+    {
+      "type": "relationship",
+      "tag": "Relationship",
+      "position": "",
+      "thickness": "",
+      "width": "",
+      "color": "",
+      "fontSize": "",
+      "dashed": "false",
+      "routing": "",
+      "opacity": ""
+    },
+    {
+      "type": "element",
+      "description": "true",
+      "tag": "Software System",
+      "width": "600",
+      "height": "",
+      "background": "#ffffff",
+      "color": "#333333",
+      "fontSize": "24",
+      "border": "Solid",
+      "opacity": "",
+      "shape": "",
+      "metadata": "false"
+    }
+  ]
+}

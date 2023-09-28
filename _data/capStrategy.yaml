@@ -1,0 +1,84 @@
+---
+- Name: Strategy & Governance
+  Documentation: All capabilities required to ensure that the organisation is able to develop and maintain its strategic direction, manage continuous improvement, grow and share knowledge and best practice, and comply with external requirements.
+  ID: strategy
+  levelTwo:
+  - ID: id-261
+    Type: Capability
+    Name: Strategy Management
+    Documentation: All activities aimed at ensuring that the organisation has a coherent, integrated and sustainable vision, mission and strategy.
+    levelThree:
+    - ID: id-260
+      Type: Capability
+      Name: Strategic Vision Development
+      Documentation: What the organisation does to develop and maintain a coherent vision for the future.    
+    - ID: id-264
+      Type: Capability
+      Name: Strategic Plan Development
+      Documentation: What the organisation does to develop, maintain and review strategic plans in support of its vision, mission and strategy.
+    - ID: id-263
+      Type: Capability
+      Name: Strategic Plan Management
+      Documentation: What the organisation does to develop, maintain and review strategic plans in support of its vision, mission and strategy.
+    - ID: id-3007
+      Type: Capability
+      Name: Strategic Reporting
+      Documentation: What the organisation does to report on progress towards delivery of strategic plans and objectives.
+    - ID: id-265
+      Type: Capability
+      Name: Business Horizon Scanning
+      Documentation: What the organisation does to review developments within the sector and in the world at large to inform strategic development.
+    - ID: id-79
+      Type: Capability
+      Name: Corporate Performance Management
+      Documentation: What the organisation does to set, measure and assess targets and metrics for key corporate objectives.
+  - ID: id-266
+    Type: Capability
+    Name: Business Capability Management
+    Documentation: All activities aimed at understanding, prioritising, delivering and managing the capabilities needed to support the strategy(s) and vision.
+    levelThree:
+    - ID: id-271
+      Type: Capability
+      Name: Benefits Management
+      Documentation: What the organisation does to identify, measure and evaluate the anticipated benefits associated with a given change initiative.
+    - ID: id-270
+      Type: Capability
+      Name: Change Portfolio Management
+      Documentation: What the organisation does to govern and manage the entire institution change portfolio - including all programmes, projects and initiatives - their prioritisation and oversight.
+    - ID: id-2834
+      Type: Capability
+      Name: Organisational Design
+      Documentation: What the organisation does to ensure that its structures are optimised to support operational excellence and delivery of strategic objectives.
+    - ID: id-89
+      Type: Capability
+      Name: Quality Management
+      Documentation: What the organisation does to assess service quality, and determine and monitor quality improvement activities.
+    - ID: id-268
+      Type: Capability
+      Name: Enterprise Architecture
+      Documentation: What the organisation does to develop and maintain architectural deliverables to support effective business decision making.
+  - ID: id-76
+    Type: Capability
+    Name: Corporate Governance
+    Documentation: All activities aimed at ensuring compliance with external regulations and internal policies, including management of risk.
+    levelThree:
+    - ID: id-88
+      Type: Capability
+      Name: Risk Management
+      Documentation: What the organisation does to assess corporate risk, and to identify and monitor risk mitigation activities.
+    - ID: id-87
+      Type: Capability
+      Name: Compliance Monitoring & Reporting
+      Documentation: What the organisation does to monitor and report on compliance with institutional Policies and Standards.
+    - ID: id-91
+      Type: Capability
+      Name: Policy & Regulation Management
+      Documentation: What the organisation does to develop, manage, maintain and enforce corporate polices, regulations and standards in line with internal and external requirements.    
+    - ID: id-80
+      Type: Capability
+      Name: Internal Audit & Reporting
+      Documentation: What the organisation does to manage and undertake the internal audit and compliance program.
+    - ID: id-90
+      Type: Capability
+      Name: Business Continuity Management
+      Documentation: What the organisation does to ensure the development, testing, and maintenance of business continuity plans.

@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{% for member in site.data.capTeach %}
+
+    {% for item in member.levelTwo %}
+
+        {% for itemtwo in item.levelThree %}
+
+                {% if itemtwo.Image %}
+        <img src="/capability/capdiagrams/{{ itemtwo.Name }}.png">
+        {% endif %}
+
+        {% endfor %}
+
+    {% endfor %}
+
+
+
+{% endfor %}

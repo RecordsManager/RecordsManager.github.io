@@ -1,0 +1,275 @@
+{
+  "type": "System Landscape",
+  "scope": "Student Admininistration Capability",
+  "description": "All activities aimed at maintaining accurate records of students and their administrative and academic statuses during their time at organisation, and managing the change of records and statuses.",
+  "size": "A3_Landscape",
+
+
+  "elements": [
+    {
+      "type": "Software System",
+      "name": "Army courses",
+      "description": "To support army funding",
+      "tags": "Internal",
+      "position": "2280,2855"
+    },
+    {
+      "type": "Person",
+      "name": "Assessment and Awards Unit Staff",
+      "description": "Educators",
+      "tags": "",
+      "position": "590,1780"
+    },
+    {
+      "type": "Software System",
+      "name": "Enrolment Status Management",
+      "description": "What the organisation does to ensure the change of students' official statuses as members of the organisation in response to requests or changes in situation, and in accordance with the relevant regulations. This includes the abilities to interrupt/suspend studies for a period, withdraw from units of study, programmes of study and/or the organisation, and to transfer between units/modules of study.",
+      "tags": "Internal, Cap2",
+      "position": "3095,255"
+    },
+    {
+      "type": "Software System",
+      "name": "HEMIS",
+      "description": "past student services",
+      "tags": "Internal",
+      "position": "1435,1570"
+    },
+    {
+      "type": "Software System",
+      "name": "Home Office",
+      "description": "To manage Tier 4 students",
+      "tags": "Internal",
+      "position": "2290,305"
+    },
+    {
+      "type": "Software System",
+      "name": "Programme Transfer Management",
+      "description": "What the organisation does to ensure a student's enrolment on one programme can be ceased, and enrolment onto an alternative programme performed, within limitations that may be imposed in terms of time, academic requirements, fees or other administrative reasons.",
+      "tags": "Internal, Cap2",
+      "position": "3090,1885"
+    },
+    {
+      "type": "Software System",
+      "name": "Quercus",
+      "description": "main student administration system for the University",
+      "tags": "Internal",
+      "position": "1435,1955"
+    },
+    {
+      "type": "Software System",
+      "name": "SAS Archive",
+      "description": "Past Student records - nightly into archive warehouse?",
+      "tags": "Internal",
+      "position": "1440,785"
+    },
+    {
+      "type": "Software System",
+      "name": "SLC",
+      "description": "to deliver student loans",
+      "tags": "Internal",
+      "position": "2280,2500"
+    },
+    {
+      "type": "Person",
+      "name": "Student Administration & Timetabling Staff",
+      "description": "",
+      "tags": "Internal",
+      "position": "570,1295"
+    },
+    {
+      "type": "Person",
+      "name": "Student and Management Information Unit Staff",
+      "description": "",
+      "tags": "",
+      "position": "1250,2535"
+    },
+    {
+      "type": "Software System",
+      "name": "Student Exceptional Factors Misconduct / Appeal Management",
+      "description": "What the organisation does to ensure it can receive and process student submissions relating to mitigating circumstances investigate and act in response to student misconduct, or allegations thereof, and handle subsequent formal challenges to those findings or actions. This includes ensuring the appropriate formal frameworks are in place for dealing with such situations. The term 'misconduct' can relate to academic offences, administrative discrepancies or behavioural conduct.",
+      "tags": "Internal, Cap2",
+      "position": "3090,725"
+    },
+    {
+      "type": "Software System",
+      "name": "Student Financial Administration",
+      "description": "What the organisation does to ensure that all aspects of student finance are effectively managed, including fee setting and collection and debtor management.",
+      "tags": "Internal, Cap2",
+      "position": "3075,2460"
+    },
+    {
+      "type": "Software System",
+      "name": "Student Mobility",
+      "description": "What the organisation does to ensure students can study and enrol at different universities, either as part of their award at the originating organisation or as a permanent transfer to the other organisation, and, vice-versa, the ability to accept students from other universities in the same fashion.",
+      "tags": "Internal, Cap2",
+      "position": "3090,1305"
+    },
+    {
+      "type": "Software System",
+      "name": "Student Record & Details Management",
+      "description": "What the organisation does to maintain accurate information about students, including contact, address and biographical details, and document management.This includes appropriate record retention and disposal management.",
+      "tags": "Internal, Cap2",
+      "position": "2180,1300"
+    },
+    {
+      "type": "Software System",
+      "name": "Student Record Archive",
+      "description": "Legacy Student Record System",
+      "tags": "Internal",
+      "position": "2290,785"
+    },
+    {
+      "type": "Software System",
+      "name": "Student Records Update Personal Details",
+      "description": "Update Personal Details",
+      "tags": "Internal",
+      "position": "2280,1955"
+    },
+    {
+      "type": "Software System",
+      "name": "UWN Quercus",
+      "description": "UWN Quercus - due to be moved",
+      "tags": "Internal",
+      "position": "1435,1193"
+    }
+  ],
+
+
+  "relationships": [
+    {
+      "source": "Army courses",
+      "description": "",
+      "technology": "",
+      "destination": "Student Financial Administration",
+      "tags": ""
+    },
+    {
+      "source": "HEMIS",
+      "description": "",
+      "technology": "",
+      "destination": "Student Record & Details Management",
+      "tags": ""
+    },
+    {
+      "source": "Home Office",
+      "description": "",
+      "technology": "",
+      "destination": "Enrolment Status Management",
+      "tags": ""
+    },
+    {
+      "source": "Quercus",
+      "description": "",
+      "technology": "",
+      "destination": "Student Record & Details Management",
+      "tags": ""
+    },
+    {
+      "source": "SAS Archive",
+      "description": "",
+      "technology": "",
+      "destination": "Student Record & Details Management",
+      "tags": ""
+    },
+    {
+      "source": "SLC",
+      "description": "",
+      "technology": "",
+      "destination": "Student Financial Administration",
+      "tags": ""
+    },
+    {
+      "source": "Student and Management Information Unit Staff",
+      "description": "",
+      "technology": "",
+      "destination": "Quercus",
+      "tags": ""
+    },
+    {
+      "source": "Student and Management Information Unit Staff",
+      "description": "",
+      "technology": "",
+      "destination": "Student Records Update Personal Details",
+      "tags": ""
+    },
+    {
+      "source": "Student Record Archive",
+      "description": "",
+      "technology": "",
+      "destination": "Student Record & Details Management",
+      "tags": ""
+    },
+    {
+      "source": "Student Records Update Personal Details",
+      "description": "",
+      "technology": "",
+      "destination": "Student Record & Details Management",
+      "tags": ""
+    },
+    {
+      "source": "UWN Quercus",
+      "description": "",
+      "technology": "",
+      "destination": "Student Record & Details Management",
+      "tags": ""
+    }
+  ],
+
+
+  "styles": [
+    {
+      "type": "element",
+      "description": "",
+      "tag": "Cap2",
+      "width": "800",
+      "height": "400",
+      "background": "#be0f34",
+      "color": "#ffffff",
+      "fontSize": "",
+      "border": "",
+      "opacity": "",
+      "shape": "",
+      "metadata": ""
+    },
+    {
+      "type": "element",
+      "description": "",
+      "tag": "Person",
+      "width": "",
+      "height": "",
+      "background": "#000000",
+      "color": "#ffffff",
+      "fontSize": "",
+      "border": "",
+      "opacity": "",
+      "shape": "Person",
+      "metadata": ""
+    },
+    {
+      "type": "relationship",
+      "tag": "Relationship",
+      "position": "",
+      "thickness": "",
+      "width": "",
+      "color": "",
+      "fontSize": "",
+      "dashed": "false",
+      "routing": "",
+      "opacity": ""
+    },
+    {
+      "type": "element",
+      "description": "true",
+      "tag": "Software System",
+      "width": "600",
+      "height": "",
+      "background": "#ffffff",
+      "color": "#333333",
+      "fontSize": "24",
+      "border": "Solid",
+      "opacity": "",
+      "shape": "",
+      "metadata": "false"
+    }
+  ]
+}

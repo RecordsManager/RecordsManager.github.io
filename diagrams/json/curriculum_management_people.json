@@ -1,0 +1,317 @@
+{
+  "type": "System Landscape",
+  "scope": "Curriculum Management Capability",
+  "description": "All activities aimed at educators and administrators collaborating on the creation, development, design, review, approval, assessment, and refinement of curriculum content to achieve desired student outcomes.",
+  "size": "A2_Landscape",
+
+
+  "elements": [
+    {
+      "type": "Person",
+      "name": "Academic Head",
+      "description": "Next level up from Course Leader",
+      "tags": "internal",
+      "position": "1865,2535"
+    },
+    {
+      "type": "Person",
+      "name": "Administrators",
+      "description": "PQOs etc",
+      "tags": "Internal",
+      "position": "1875,1055"
+    },
+    {
+      "type": "Person",
+      "name": "Business Partner Group",
+      "description": "For Fees and Scholarship Advice",
+      "tags": "internal",
+      "position": "1236,1060"
+    },
+    {
+      "type": "Person",
+      "name": "Compliance Staff",
+      "description": "Representative of Compliance Group",
+      "tags": "internal",
+      "position": "190,2535"
+    },
+    {
+      "type": "Person",
+      "name": "Course Leader",
+      "description": "Academics",
+      "tags": "internal",
+      "position": "1865,1765"
+    },
+    {
+      "type": "Software System",
+      "name": "Curriculum & Resource Development",
+      "description": "What the organisation does to ensure that the relevant resources are available to deliver the curriculum components e.g. learning spaces, books etc.",
+      "tags": "Internal ,Cap2",
+      "position": "645,315"
+    },
+    {
+      "type": "Software System",
+      "name": "Curriculum Change Management",
+      "description": "What the organisation does to ensure educators and administrators collaborate on the review and refinement of curriculum components to achieve desired student outcomes.",
+      "tags": "Internal ,Cap2",
+      "position": "2910,315"
+    },
+    {
+      "type": "Software System",
+      "name": "Curriculum Design",
+      "description": "What the organisation does to ensure educators and administrators collaborate on the creation, development, design, approval and release of new curriculum components to achieve desired student outcomes.",
+      "tags": "Internal ,Cap2",
+      "position": "625,1720"
+    },
+    {
+      "type": "Software System",
+      "name": "Curriculum Performance Management",
+      "description": "What the organisation does to develop and support the organisation's quality assurance framework e.g. Academic Committees, Annual programme monitoring, Periodic programme review, Course Approval & modifications etc.",
+      "tags": "Internal ,Cap2",
+      "position": "2905,1715"
+    },
+    {
+      "type": "Software System",
+      "name": "Curriculum Retirement Management",
+      "description": "What the organisation does to ensure educators and administrators withdraw & retire curriculum components.",
+      "tags": "Internal ,Cap2",
+      "position": "2920,1005"
+    },
+    {
+      "type": "Person",
+      "name": "External Examiners",
+      "description": "",
+      "tags": "internal",
+      "position": "3985,1765"
+    },
+    {
+      "type": "Person",
+      "name": "Faculty Marketing Executives",
+      "description": "To review the information",
+      "tags": "internal",
+      "position": "715,2535"
+    },
+    {
+      "type": "Person",
+      "name": "Faculty Resource Managers",
+      "description": "",
+      "tags": "internal",
+      "position": "1875,365"
+    },
+    {
+      "type": "Person",
+      "name": "Finance Officer",
+      "description": "Finance Staff",
+      "tags": "internal",
+      "position": "715,1075"
+    },
+    {
+      "type": "Person",
+      "name": "International and Immigration Staff",
+      "description": "Representative of International and Immigration Unit",
+      "tags": "internal",
+      "position": "1236,2535"
+    },
+    {
+      "type": "Person",
+      "name": "Learning Services Staff",
+      "description": "Representation of Learning Services",
+      "tags": "internal",
+      "position": "190,1060"
+    }
+  ],
+
+
+  "relationships": [
+    {
+      "source": "Academic Head",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Design",
+      "tags": ""
+    },
+    {
+      "source": "Administrators",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Design",
+      "tags": ""
+    },
+    {
+      "source": "Administrators",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Performance Management",
+      "tags": ""
+    },
+    {
+      "source": "Administrators",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum & Resource Development",
+      "tags": ""
+    },
+    {
+      "source": "Administrators",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Retirement Management",
+      "tags": ""
+    },
+    {
+      "source": "Business Partner Group",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum & Resource Development",
+      "tags": ""
+    },
+    {
+      "source": "Compliance Staff",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Design",
+      "tags": ""
+    },
+    {
+      "source": "Course Leader",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Retirement Management",
+      "tags": ""
+    },
+    {
+      "source": "Course Leader",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Performance Management",
+      "tags": ""
+    },
+    {
+      "source": "Course Leader",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Design",
+      "tags": ""
+    },
+    {
+      "source": "Course Leader",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Change Management",
+      "tags": ""
+    },
+    {
+      "source": "External Examiners",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Change Management",
+      "tags": ""
+    },
+    {
+      "source": "External Examiners",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Performance Management",
+      "tags": ""
+    },
+    {
+      "source": "Faculty Marketing Executives",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Design",
+      "tags": ""
+    },
+    {
+      "source": "Faculty Resource Managers",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum & Resource Development",
+      "tags": ""
+    },
+    {
+      "source": "Finance Officer",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum & Resource Development",
+      "tags": ""
+    },
+    {
+      "source": "Finance Officer",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Design",
+      "tags": ""
+    },
+    {
+      "source": "International and Immigration Staff",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum Design",
+      "tags": ""
+    },
+    {
+      "source": "Learning Services Staff",
+      "description": "",
+      "technology": "",
+      "destination": "Curriculum & Resource Development",
+      "tags": ""
+    }
+  ],
+
+
+  "styles": [
+    {
+      "type": "element",
+      "description": "",
+      "tag": "Cap2",
+      "width": "800",
+      "height": "500",
+      "background": "#ffffff",
+      "color": "#000000",
+      "fontSize": "34",
+      "border": "",
+      "opacity": "",
+      "shape": "",
+      "metadata": ""
+    },
+    {
+      "type": "element",
+      "description": "",
+      "tag": "Person",
+      "width": "",
+      "height": "",
+      "background": "#333333",
+      "color": "#ffffff",
+      "fontSize": "",
+      "border": "",
+      "opacity": "",
+      "shape": "Person",
+      "metadata": "false"
+    },
+    {
+      "type": "relationship",
+      "tag": "Relationship",
+      "position": "",
+      "thickness": "",
+      "width": "",
+      "color": "",
+      "fontSize": "",
+      "dashed": "false",
+      "routing": "",
+      "opacity": ""
+    },
+    {
+      "type": "element",
+      "description": "true",
+      "tag": "Software System",
+      "width": "600",
+      "height": "",
+      "background": "#ffffff",
+      "color": "#333333",
+      "fontSize": "24",
+      "border": "Solid",
+      "opacity": "",
+      "shape": "",
+      "metadata": "false"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+    "type": "System Landscape",
+    "scope": "Student Enrolment Capability",
+    "description": "All activities aimed at ensuring that students are fully enrolled at the programme and module level and inducted into the organisation community.",
+    "size": "A3_Landscape",
+  
+  
+    "elements": [
+      {
+        "type": "Software System",
+        "name": "Card Exchange",
+        "description": "",
+        "tags": "Internal",
+        "position": "1655,980"
+      },
+      {
+        "type": "Software System",
+        "name": "Induction Timetables",
+        "description": "",
+        "tags": "Internal",
+        "position": "770,990"
+      },
+      {
+        "type": "Software System",
+        "name": "Module Selection Management",
+        "description": "What the organisation does to ensure that students are fully enrolled on the necessary modules for their programme of study, including pre-enrolment where appropriate and provision of full information to enable informed module choice.",
+        "tags": "Internal, Cap2",
+        "position": "105,135"
+      },
+      {
+        "type": "Software System",
+        "name": "Programme Enrolment",
+        "description": "What the organisation does to ensure that students are fully enrolled on their chosen programme of study, including provisional enrolment, confirmation, and capture of all necessary personal details.",
+        "tags": "Internal, Cap2",
+        "position": "1080,135"
+      },
+      {
+        "type": "Software System",
+        "name": "Student Induction Management",
+        "description": "What the organisation does to introduce the student to the organisationand its communities, including activities which are intended to support students in making key transitions throughout their programme of study and/or life.",
+        "tags": "Internal, Cap2",
+        "position": "2025,140"
+      }
+    ],
+  
+  
+    "relationships": [],
+  
+  
+    "styles": [
+      {
+        "type": "element",
+        "description": "",
+        "tag": "Cap2",
+        "width": "900",
+        "height": "400",
+        "background": "#be0f34",
+        "color": "#ffffff",
+        "fontSize": "32",
+        "border": "",
+        "opacity": "",
+        "shape": "",
+        "metadata": ""
+      },
+      {
+        "type": "element",
+        "description": "",
+        "tag": "Person",
+        "width": "",
+        "height": "",
+        "background": "#000000",
+        "color": "#ffffff",
+        "fontSize": "",
+        "border": "",
+        "opacity": "",
+        "shape": "Person",
+        "metadata": "false"
+      },
+      {
+        "type": "relationship",
+        "tag": "Relationship",
+        "position": "",
+        "thickness": "",
+        "width": "",
+        "color": "",
+        "fontSize": "",
+        "dashed": "false",
+        "routing": "",
+        "opacity": ""
+      },
+      {
+        "type": "element",
+        "description": "true",
+        "tag": "Software System",
+        "width": "600",
+        "height": "",
+        "background": "#ffffff",
+        "color": "#333333",
+        "fontSize": "24",
+        "border": "Solid",
+        "opacity": "",
+        "shape": "",
+        "metadata": "false"
+      },
+      {
+        "type": "element",
+        "description": "",
+        "tag": "sub",
+        "width": "300",
+        "height": "200",
+        "background": "",
+        "color": "",
+        "fontSize": "",
+        "border": "",
+        "opacity": "",
+        "shape": "",
+        "metadata": ""
+      }
+    ]
+  }

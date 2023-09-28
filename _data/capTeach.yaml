@@ -1,0 +1,264 @@
+---
+- Name: Teaching and Learning
+  Documentation: All capabilities required to ensure that the organisation is able to develop, deliver, support and administer teaching and learning and the student experience.
+  ID: test
+  levelTwo:
+  - ID: id-344
+    Type: Capability
+    Name: Curriculum Management
+    Documentation: All activities aimed at educators and administrators collaborating on the creation, development, design, review, approval, assessment, and refinement of curriculum content to achieve desired student outcomes.
+    levelThree:
+    - ID: id-351
+      Type: Capability
+      Name: Curriculum & Resource Development
+      Documentation: What the organisation does to ensure that the relevant resources are available to deliver the curriculum components e.g. learning spaces, books etc.
+    - ID: id-350
+      Type: Capability
+      Name: Curriculum Change Management
+      Documentation: What the organisation does to ensure educators and administrators collaborate on the review and refinement of curriculum components to achieve desired student outcomes.
+    - ID: id-349
+      Type: Capability
+      Name: Curriculum Design
+      Documentation: What the organisation does to ensure educators and administrators collaborate on the creation, development, design, approval and release of new curriculum components to achieve desired student outcomes.
+    - ID: id-348
+      Type: Capability
+      Name: Curriculum Performance Management
+      Documentation: What the organisation does to develop and support the organisation's quality assurance framework e.g. Academic Committees, Annual programme monitoring, Periodic programme review, Course Approval & modifications etc.
+    - ID: id-347
+      Type: Capability
+      Name: Curriculum Retirement Management
+      Documentation: What the organisation does to ensure educators and administrators withdraw & retire curriculum components.
+    - ID: id-353
+      Type: Capability
+      Name: Professional Accreditation
+      Documentation: What the organisation does to ensure the academic curriculum is accredited by a professional authority.
+    - ID: id-346
+      Type: Capability
+      Name: Professional Learning (Staff)
+      Documentation: What the organisation does to support the enhancement of the student learning experience through initial and continuing professional development of Academic staff
+  - ID: id-324
+    Type: Capability
+    Name: Student Attraction & Recruitment
+    Documentation: All activities aimed at planning and delivering campaigns and events that aim to recruit and convert undergraduate and postgraduate students to the organisation.
+    levelThree:
+    - ID: id-330
+      Type: Capability
+      Name: Scholarship & Bursary Management
+      Documentation: What the organisation does to ensure scholarships and bursaries are set, assessed, managed and awarded.
+    - ID: id-329
+      Type: Capability
+      Name: Prospective Student Engagement
+      Documentation: What the organisation does to engage with, and promote the organisation to, prospective students.
+    - ID: id-328
+      Type: Capability
+      Name: Domestic Student Recruitment
+      Documentation: What the organisation does to ensure the effective recruitment of prospective domestic students.
+    - ID: id-327
+      Type: Capability
+      Name: International Student Recruitment
+      Documentation: What the organisation does to ensure the effective recruitment of prospective international students to agreed targets.
+    - ID: id-326
+      Type: Capability
+      Name: Student Recruitment Agent Management
+      Documentation: What the organisation does to ensure the effective management of external agents involved in the recruitment of students.
+  - ID: id-362
+    Type: Capability
+    Name: Student Admission Management
+    Documentation: All activities aimed at managing student applications, placement offers and quotas.
+    levelThree:
+    - ID: id-365
+      Type: Capability
+      Name: Student Application Management
+      Documentation: What the organisation does to ensure student applications are assessed/evaluated, including assessment of prior learning, scheduling interviews and clearing activities.
+    - ID: id-364
+      Type: Capability
+      Name: Offer, Acceptance & Quota Management
+      Documentation: What the organisation does to ensure student offers are distributed, acceptances are processed and quotas are managed, including confirmation activities.
+  - ID: id-297
+    Type: Capability
+    Name: Student Enrolment
+    Documentation: All activities aimed at ensuring that students are fully enrolled at the programme and module level and inducted into the organisation community.
+    levelThree:
+    - ID: id-299
+      Type: Capability
+      Name: Student Induction Management
+      Documentation: What the organisation does to introduce the student to the organisationand its communities, including activities which are intended to support students in making key transitions throughout their programme of study and/or life.
+    - ID: id-301
+      Type: Capability
+      Name: Module Selection Management
+      Documentation: What the organisation does to ensure that students are fully enrolled on the necessary modules for their programme of study, including pre-enrolment where appropriate and provision of full information to enable informed module choice.
+    - ID: id-300
+      Type: Capability
+      Name: Programme Enrolment
+      Documentation: What the organisation does to ensure that students are fully enrolled on their chosen programme of study, including provisional enrolment, confirmation, and capture of all necessary personal details.
+  - ID: id-318
+    Type: Capability
+    Name: Teaching & Learning Delivery
+    Documentation: All activities aimed at delivering a learning experience to students of the organisation and enabling them to engage with learning in the subjects as described in the curriculum. This includes the delivery of teaching activitiesas well as other activities that support a meaningful learning environment.
+    levelThree:
+    - ID: id-322
+      Type: Capability
+      Name: Non Presence Based Teaching
+      Documentation: What the organisation does to provide teaching activities via online and digital channels that enable learning for students not physically located with the teaching content provider.
+    - ID: id-323
+      Type: Capability
+      Name: Presence Based Teaching
+      Documentation: What the organisation does to provide face to face teaching activities that enable learning and associated resources, to students physically located with the teaching content provider.
+    - ID: id-321
+      Type: Capability
+      Name: Teaching & Learning Content Management
+      Documentation: What the organisation does to provide resources in a wide range of formats to support learning and teaching in the organisation. This includes physical space, library and other physical and digital services.
+    - ID: id-320
+      Type: Capability
+      Name: Student Placement Management
+      Documentation: What the organisation does to source, allocate and manage the placement of students in learning and professional practice environments external to the organisation as part of the curriculum.
+  - ID: id-338
+    Type: Capability
+    Name: Student Completion & Graduation
+    Documentation: All activities aimed at conferring degrees (and other awards) to students who have qualified appropriately and hence become graduates.
+    levelThree:
+    - ID: id-340
+      Type: Capability
+      Name: Graduation Eligibility Management
+      Documentation: What the organisation does to ensure that the administrative and financial (debt) affairs of students are in order, and those eligible to graduate are determined. This does not include academic results or exam/review boards.
+    - ID: id-343
+      Type: Capability
+      Name: Graduation Event Management
+      Documentation: What the organisation does to stage the ceremony at which degrees are formally and publicly conferred by the organisation to eligible graduands.This includes the abilities to make the necessary arrangements for the event(s),and the carrying out of the graduation ceremony itself along with other associated events.
+    - ID: id-342
+      Type: Capability
+      Name: Graduation Record Certificate Management
+      Documentation: What the organisation does to ensure accurate records, relating to the formal qualifications awarded to students, are produced and maintained. This includes degree award certificates, Diploma Supplements and other associated certificates and records, and the ability to provide records and certificates as required.
+    - ID: id-341
+      Type: Capability
+      Name: Non-Academic Achievement Management
+      Documentation: What the organisation does to ensure the recognition and recording of achievements made by students at organisation, other than formal academic awards. This includes abilities to produce HEARs (Higher Education Achievement Reports), recognise outstanding extra-curricular activities and voluntary work, and to bestow intuition-specific prizes.
+  - ID: id-292
+    Type: Capability
+    Name: Alumni Engagement
+    Documentation: All activities aimed at Alumni engagement ensuring the organisations alumni is fully involved in the life of the institution as valued supporters, advocates, and lifelong learners who contribute to, and benefit from, connections to each other and to the organisation.
+    levelThree:
+    - ID: id-294
+      Type: Capability
+      Name: Alumni Event & Campaign Management
+      Documentation: What the organisation does to ensure the development and management of alumni related events and campaigns.
+    - ID: id-296
+      Type: Capability
+      Name: Alumni Relationship Management
+      Documentation: What the organisation does to ensure the effective communication and interaction with past students of the organisation.
+    - ID: id-295
+      Type: Capability
+      Name: Benefactor Management
+      Documentation: What the organisation does to ensure effective engagement with potential / actual benefactors. Benefactors may provide financial donations or other help.
+  - ID: id-307
+    Type: Capability
+    Name: Student Assessment
+    Documentation: All activities aimed at assessing whether a student has achieved the learning outcomes of the curriculum.
+    levelThree:
+    - ID: id-311
+      Type: Capability
+      Name: Student Results Management
+      Documentation: What the organisation does to manage the gathering, aggregation and assignment of a student's results from a variety of assessment methods (including coursework, examinations and placements) as part of their curriculum and in accordance with academic regulations to provide assessment outcomes (e.g. progression and award).
+    - ID: id-312
+      Type: Capability
+      Name: Assessment Administration
+      Documentation: What the organisation does to administer the assessment of students, ensuring regulations, policies and processes are followed, and that there is a clear communications strategy so students are aware of the assessment regime and their responsibilities.
+    - ID: id-309
+      Type: Capability
+      Name: Assessment Delivery
+      Documentation: What the organisation does to ensure that students are assessed against the learning outcomes of their curriculum proportionately and using the most appropriate assessment method.
+    - ID: id-310
+      Type: Capability
+      Name: Assessment Marking & Feedback
+      Documentation: What the organisation does to mark, benchmark and moderate assessments, and provide feedback to students that facilitates their development as learners.
+  - ID: id-332
+    Type: Capability
+    Name: Academic Administration
+    Documentation: All activities aimed at managing academic policies, regulations, scheduling and related customer feedback.
+    levelThree:
+    - ID: id-335
+      Type: Capability
+      Name: Academic Policy & Regulation Management
+      Documentation: What the organisation does to create, review, administer and revise Academic policies and regulations.
+    - ID: id-336
+      Type: Capability
+      Name: Academic Year Scheduling
+      Documentation: What the organisation does to schedule the curriculum across the academic year.
+    - ID: id-334
+      Type: Capability
+      Name: Timetabling Management
+      Documentation: What the organisation does to manage the creation, revision and communication of the timing and location of curriculum events, including lectures, seminars, examinations and all similar/related activities.
+  - ID: id-354
+    Type: Capability
+    Name: Student Administration
+    Documentation: All activities aimed at maintaining accurate records of students and their administrative and academic statuses during their time at organisation, and managing the change of records and statuses.
+    levelThree:
+    - ID: id-356
+      Type: Capability
+      Name: Student Mobility
+      Documentation: What the organisation does to ensure students can study and enrol at different universities, either as part of their award at the originating organisation or as a permanent transfer to the other organisation, and, vice-versa, the ability to accept students from other universities in the same fashion.
+    - ID: id-359
+      Type: Capability
+      Name: Student Financial Administration
+      Documentation: What the organisation does to ensure that all aspects of student finance are effectively managed, including fee setting and collection and debtor management.
+    - ID: id-357
+      Type: Capability
+      Name: Enrolment Status Management
+      Documentation: What the organisation does to ensure the change of students' official statuses as members of the organisation in response to requests or changes in situation, and in accordance with the relevant regulations. This includes the abilities to interrupt/suspend studies for a period, withdraw from units of study, programmes of study and/or the organisation, and to transfer between units/modules of study.
+    - ID: id-360
+      Type: Capability
+      Name: Programme Transfer Management
+      Documentation: What the organisation does to ensure a student's enrolment on one programme can be ceased, and enrolment onto an  alternative programme performed, within limitations that may be imposed in terms of time, academic requirements, fees or other administrative reasons.
+    - ID: id-358
+      Type: Capability
+      Name: Student Record & Details Management
+      Documentation: What the organisation does to maintain accurate information about students, including contact, address and biographical details, and document management.This includes appropriate record retention and disposal management.
+    - ID: id-361
+      Type: Capability
+      Name: Student Exceptional Factors Misconduct / Appeal Management
+      Documentation: What the organisation does to ensure it can receive and process student submissions relating to mitigating circumstances investigate and act in response to student misconduct, or allegations thereof, and handle subsequent formal challenges to those findings or actions. This includes ensuring the appropriate formal frameworks are in place for dealing with such situations. The term 'misconduct' can relate to academic offences, administrative discrepancies or behavioural conduct.
+  - ID: id-282
+    Type: Capability
+    Name: Student Support & Wellbeing Management
+    Documentation: All activities aimed at ensuring students receive adequate support and advice throughout their time at organisation.
+    levelThree:
+    - ID: id-285
+      Type: Capability
+      Name: Academic Skills Development
+      Documentation: What the organisation does to ensure students are assisted with their academic skills development, including development of skills in research, use of library resources, academic writing, work planning and critical thinking.
+    - ID: id-290
+      Type: Capability
+      Name: Student Engagement & Retention
+      Documentation: What the organisation does to ensure students are pro-actively engaged in the learning process and want to continue their studies at the organisation.
+    - ID: id-284
+      Type: Capability
+      Name: Student Financial Advice
+      Documentation: What the organisation does to ensure students receive the help they need to manage their finances, including providing advice and guidance on financial matters and providing access to hardships funds if required.
+    - ID: id-288
+      Type: Capability
+      Name: Personal Tutor Provision
+      Documentation: What the organisation does to ensure delivery of personal tutoring to students to help them make a successful transition into H.E. and aid their academic progression and achievement, including provision of academic and personal support and guidance, and signposting to other support services.
+    - ID: id-289
+      Type: Capability
+      Name: Housing Advice
+      Documentation: What the organisation does to ensure students have access to the support and advice required to enable them to secure accommodation that suits their needs and budget, whether that be organisation halls or private accommodation.
+    - ID: id-291
+      Type: Capability
+      Name: Student Health & Wellbeing
+      Documentation: What the organisation does to assist students with their health and wellbeing, including the provision of student wellbeing advice, mental health advice and counselling.
+    - ID: id-313
+      Type: Capability
+      Name: Disability Support Management
+      Documentation: What the organisation does to ensure students who disclose a disability or require additional support for their academic studies receive  the support and advice they need to achieve their full potential.
+    - ID: id-316
+      Type: Capability
+      Name: Personal Learning Management
+      Documentation: What the organisation does to ensure students requiring additional support receive an individual personal learning plan to help them achieve their short and long term goals.
+    - ID: id-286
+      Type: Capability
+      Name: Academic Advice Management
+      Documentation: What the organisation does to ensure academic advice is provided for students, including insight, direction, and planning of their academic career.
+    - ID: id-287
+      Type: Capability
+      Name: Career & Employability Engagement Management
+      Documentation: What the organisation does to engage with prospective employers and to ensure students are provided with direction and careers advice in order to help them develop and realise their career ambitions and to maximise their employment prospects.

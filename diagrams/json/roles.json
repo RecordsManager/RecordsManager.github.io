@@ -1,0 +1,57 @@
+{
+  "type": "System Landscape",
+  "scope": "Possible Roles for Capability Fulfilment",
+  "description": "Work in progress collection of roles to map to capabilities",
+  "size": "A2_Landscape",
+
+
+  "elements": [
+    {
+      "type": "Person",
+      "name": "Academic",
+      "description": "Academic Staff",
+      "tags": "internal",
+      "position": "1865,2535"
+    },
+    {
+      "type": "Person",
+      "name": "Administrators",
+      "description": "Staff involved in Administration",
+      "tags": "Internal",
+      "position": "1875,1055"
+    },
+    {
+      "type": "Person",
+      "name": "Research Staff",
+      "description": "For Fees and Scholarship Advice",
+      "tags": "internal",
+      "position": "1236,1060"
+    },
+    {
+        "type": "Person",
+        "name": "Research Staff",
+        "description": "For Fees and Scholarship Advice",
+        "tags": "internal",
+        "position": "1236,1060"
+      }
+  ],
+
+
+  "styles": [
+
+    {
+      "type": "element",
+      "description": "",
+      "tag": "Person",
+      "width": "",
+      "height": "",
+      "background": "#333333",
+      "color": "#ffffff",
+      "fontSize": "",
+      "border": "",
+      "opacity": "",
+      "shape": "Person",
+      "metadata": "false"
+    }
+  ]
+}
