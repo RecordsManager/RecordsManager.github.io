@@ -12,18 +12,6 @@
       Type: Capability
       Name: Curriculum & Resource Development
       Documentation: What the organisation does to ensure that the relevant resources are available to deliver the curriculum components e.g. learning spaces, books etc.
-    - ID: id-350
-      Type: Capability
-      Name: Curriculum Change Management
-      Documentation: What the organisation does to ensure educators and administrators collaborate on the review and refinement of curriculum components to achieve desired student outcomes.
-    - ID: id-349
-      Type: Capability
-      Name: Curriculum Design
-      Documentation: What the organisation does to ensure educators and administrators collaborate on the creation, development, design, approval and release of new curriculum components to achieve desired student outcomes.
-    - ID: id-348
-      Type: Capability
-      Name: Curriculum Performance Management
-      Documentation: What the organisation does to develop and support the organisation's quality assurance framework e.g. Academic Committees, Annual programme monitoring, Periodic programme review, Course Approval & modifications etc.
     - ID: id-347
       Type: Capability
       Name: Curriculum Retirement Management
@@ -45,22 +33,6 @@
       Type: Capability
       Name: Scholarship & Bursary Management
       Documentation: What the organisation does to ensure scholarships and bursaries are set, assessed, managed and awarded.
-    - ID: id-329
-      Type: Capability
-      Name: Prospective Student Engagement
-      Documentation: What the organisation does to engage with, and promote the organisation to, prospective students.
-    - ID: id-328
-      Type: Capability
-      Name: Domestic Student Recruitment
-      Documentation: What the organisation does to ensure the effective recruitment of prospective domestic students.
-    - ID: id-327
-      Type: Capability
-      Name: International Student Recruitment
-      Documentation: What the organisation does to ensure the effective recruitment of prospective international students to agreed targets.
-    - ID: id-326
-      Type: Capability
-      Name: Student Recruitment Agent Management
-      Documentation: What the organisation does to ensure the effective management of external agents involved in the recruitment of students.
   - ID: id-362
     Type: Capability
     Name: Student Admission Management
@@ -242,23 +214,3 @@
       Type: Capability
       Name: Housing Advice
       Documentation: What the organisation does to ensure students have access to the support and advice required to enable them to secure accommodation that suits their needs and budget, whether that be organisation halls or private accommodation.
-    - ID: id-291
-      Type: Capability
-      Name: Student Health & Wellbeing
-      Documentation: What the organisation does to assist students with their health and wellbeing, including the provision of student wellbeing advice, mental health advice and counselling.
-    - ID: id-313
-      Type: Capability
-      Name: Disability Support Management
-      Documentation: What the organisation does to ensure students who disclose a disability or require additional support for their academic studies receive  the support and advice they need to achieve their full potential.
-    - ID: id-316
-      Type: Capability
-      Name: Personal Learning Management
-      Documentation: What the organisation does to ensure students requiring additional support receive an individual personal learning plan to help them achieve their short and long term goals.
-    - ID: id-286
-      Type: Capability
-      Name: Academic Advice Management
-      Documentation: What the organisation does to ensure academic advice is provided for students, including insight, direction, and planning of their academic career.
-    - ID: id-287
-      Type: Capability
-      Name: Career & Employability Engagement Management
-      Documentation: What the organisation does to engage with prospective employers and to ensure students are provided with direction and careers advice in order to help them develop and realise their career ambitions and to maximise their employment prospects.
