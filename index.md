@@ -5,7 +5,7 @@
 layout: default
 ---
 <div class="home">
-    <h1>USW Capability Model</h1>
+    <h1>UCISA Capability Model</h1>
 
     <p class="intro">A business capability defines <em>what</em> a business does at its core. This differs from <em>how</em> things are done, <em>where they are done</em>, or <em>by whom</em>.
     <a href="http://ucisa-uk-he-capability-model.coventry.ac.uk/capability-definition/">UCISA Definition</a>
