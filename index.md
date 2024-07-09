@@ -9,6 +9,7 @@ layout: default
 
     <p class="intro">A business capability defines <em>what</em> a business does at its core. This differs from <em>how</em> things are done, <em>where they are done</em>, or <em>by whom</em>.
     <a href="http://ucisa-uk-he-capability-model.coventry.ac.uk/capability-definition/">UCISA Definition</a>
+    This page is a more conveneinet way to navigate the definitions - using Version 2 of the model. Update coming soon.
     </p>
 
 {% for member in site.data.capTeach %}
